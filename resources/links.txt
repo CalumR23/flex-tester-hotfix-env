@@ -1,0 +1,15 @@
+### Links that may be commonly used
+
+## 7.2 Hotfixes 
+
+# Bundle download
+https://files.liferay.com/private/ee/portal/7.2.10/liferay-dxp-tomcat-7.2.10-ga1-20190531140450482.7z
+
+# Patching Tool
+https://files.liferay.com/private/ee/fix-packs/patching-tool/patching-tool-2.0.15.zip
+
+# Hot Fix 
+http://files.liferay.com/private/ee/fix-packs/7.0.10/hotfix/liferay-hotfix-7892-7010.zip
+
+#Fixpack
+https://files.liferay.com/private/ee/fix-packs/7.2.10/dxp/liferay-fix-pack-dxp-8-7210.zip
